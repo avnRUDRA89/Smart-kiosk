@@ -23,5 +23,3 @@ This project is a WebSocket-powered multimedia presentation system that allows r
 
 ---
 
-## 🔧 Project Structure
-
